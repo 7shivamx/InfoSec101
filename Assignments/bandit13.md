@@ -1,10 +1,8 @@
 # Bandit Level 13 to 14 Writeup
 
-(Remove all the comments like these)
+Author: [Shivam Mishra](https://github.com/7shivamx)
 
-Author: [Shivam Mishra](https://github.com/7shivamx) (Mention your name, GitHub profile)
-
-Problem Page: [bandit15](https://overthewire.org/bandit/bandit15) (Change this link accordingly)
+Problem Page: [bandit15](https://overthewire.org/bandit/bandit15) 
 
 ## List of Commands Used
 ```
